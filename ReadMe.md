@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ngofficial99@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16tbT-myvJd0KexjWl3yAM8HasQDxRVwH/edit?usp=sharing&ouid=112689743508790684657&rtpof=true&sd=true](https://docs.google.com/document/d/16tbT-myvJd0KexjWl3yAM8HasQDxRVwH/edit?usp=sharing&ouid=112689743508790684657&rtpof=true&sd=true)
+- 📄 Know about my experiences [Download CV](https://shorturl.at/ro46X)
 
 - ⚡ Fun fact **I can analyze Azure SQL databases faster than a pit stop at Monaco, all while binge-watching House of Dragons!**
 
