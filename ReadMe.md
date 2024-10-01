@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishant Gupta :-)</h1>
-<h3 align="center">Building Seamless Solutions with Code & Cloud | Final-Year MCA Student</h3>
+<h3 align="center">DevOps Engineer Intern @Mactores Cognition ovt ltd | Final-Year MCA Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngofficial99&label=Profile%20views&color=0e75b6&style=flat" alt="ngofficial99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngofficial99" alt="ngofficial99" /></a> </p>
 
-- 🔭 I’m currently working on [Contact App](https://github.com/ngofficial99/contact-app-react)
+- 🔭 I’m currently working on [DSA using JAVA](https://github.com/ngofficial99/Java-Collection-FrameWork)
 
 - 🌱 I’m currently Undergoing **Azure Database Administrator DP300**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ngofficial99@gmail.com**
 
-- 📄 Know about my experiences [Download CV](https://shorturl.at/ro46X)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1CLPZWlPSHwCVVgEzCaFF-gZP3FU84ivI/view?usp=sharing)
 
 - ⚡ Fun fact **I can analyze Azure SQL databases faster than a pit stop at Monaco, all while binge-watching House of Dragons!**
 
