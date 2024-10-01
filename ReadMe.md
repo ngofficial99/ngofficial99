@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Gupta :-)</h1>
-<h3 align="center">DevOps Engineer Intern @Mactores Cognition ovt ltd | Final-Year MCA Student</h3>
+<h3 align="center">DevOps Engineer Intern @Mactores Cognition | Final-Year MCA Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngofficial99&label=Profile%20views&color=0e75b6&style=flat" alt="ngofficial99" /> </p>
 
