@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on [NBAY Fullstack Ecommerce app ](https://github.com/ngofficial99/Nbay-Ecommerce-ReactJS-NodeJS-JWT-app)
 
-- 🌱 I’m currently Undergoing **Azure Database Administrator DP300**
+- 🌱 I’m currently Learning **Google Cloud Platoform**
 
 - 👨‍💻 All of my projects are available at [https://ngofficial99.github.io/](https://ngofficial99.github.io/)
 
-- 💬 Ask me about **AWS Cloud, Azure Cloud, DevOps and MERN Stack**
+- 💬 Ask me about **Cloud, CICD and Containers **
 
 - 📫 How to reach me **ngofficial99@gmail.com**
 
 - 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1CLPZWlPSHwCVVgEzCaFF-gZP3FU84ivI/view?usp=sharing)
-
-- ⚡ Fun fact **I can analyze Azure SQL databases faster than a pit stop at Monaco, all while binge-watching House of Dragons!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
